@@ -13,8 +13,8 @@ body{
 .usercontainer{
     background-color: lightseagreen;
     color: black;
-    width: 350px;
-    height: 350px;
+    width: 300px;
+    height: 300px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -29,4 +29,6 @@ h1{
     margin-left: 30 px;
     margin-bottom: 100px;
     margin-top: 10px;
+    
+
 }
