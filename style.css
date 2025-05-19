@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    color: black;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.usercontainer{
+    background-color: lightseagreen;
+    color: black;
+    width: 350px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 2px 2px 10px red;
+
+}
+h1{
+    color: black;
+    box-shadow: 2px 2px 2px black;
+    margin-left: 30 px;
+    margin-bottom: 100px;
+    margin-top: 10px;
+}
